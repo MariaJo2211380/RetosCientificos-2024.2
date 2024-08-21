@@ -1,1 +1,1 @@
-Presentaciones y reportes.
+Este directorio albergará presentaciones y reportes.
