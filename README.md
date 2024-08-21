@@ -1,4 +1,4 @@
-# RetosCientíficos-2024.2
+# Retos Científicos-2024.2
 ## Introducción
 Este repositorio está dedicado a la materia de Retos Cientificos del semestre 2024-2. Aquí encontrarás:
 Documentos con las soluciones para tareas y asignaciones. Y códigos con sus respectivos datos y resultados. Este repositorio ha sido desarrollado por el grupo de estudiantes:
