@@ -10,6 +10,10 @@ Alejandra Angarita -
 
 ----------------------------------------------------------------------------------------------------------
 
+El grupo ha seleccionado el reto número 2: La física del telefonito. Este proyecto nos lleva a investigar aspectos como: ¿Qué factores determinan la distancia y la calidad de la comunicación en un teléfono de este tipo? ¿Cómo influye la frecuencia de transmisión del sonido en el otro extremo de la cuerda en relación con su tensión y diámetro?
+
+----------------------------------------------------------------------------------------------------------
+
 ## Contenido Repositorio
 + Referencias: Para albergar enlaces a videos.
 + Montaje experimental: Para albergar descripción en .md del montaje, sus partes, su precisión.
