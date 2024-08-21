@@ -1,6 +1,6 @@
 # Retos Científicos 2024-2
 ## Introducción
-Este repositorio está dedicado a la materia de Retos Cientícos del semestre 2024-2. Aquí se encontrara: Referencias, Montaje experimental, Códigos de simulación, Documentos como presentaciones y reportes. Este repositorio ha sido desarrollado por el grupo de estudiantes:
+Este repositorio está dedicado a la materia de Retos Cientícos del semestre 2024-2. Este espacio está diseñado para recopilar y organizar todos los recursos y trabajos desarrollados a lo largo del semestre. Aquí encontrarás una variedad de materiales, incluyendo referencias bibliográficas, detalles del montaje experimental, códigos de simulación y documentos clave como presentaciones y reportes. Este repositorio ha sido desarrollado por el grupo de estudiantes:
 
 Jurianny Andica - 2210703
 
