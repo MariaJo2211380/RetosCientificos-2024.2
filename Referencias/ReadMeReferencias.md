@@ -20,9 +20,3 @@ Este directorio albergará Bibliografía usada en todo el transcurso del desarro
 
 [7] Bilbao, S., & Ducceschi, M. (2023). Models of musical string vibration. Acoustical Science and Technology, 44(3), 194-209.
     link: [aquí](https://github.com/MariaJo2211380/RetosCientificos-2024.2/blob/main/Referencias/Models%20of%20musical%20string%20vibration.pdf)
-
-
-
-[5] 
-
-
