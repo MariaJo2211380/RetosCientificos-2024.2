@@ -20,3 +20,19 @@ El grupo ha seleccionado el reto número 2: La física del telefonito. Este proy
 + Montaje experimental: Para albergar descripción en .md del montaje, sus partes, su precisión.
 + Códigos de simulación.
 + Documentos: Para almacenar presentaciones y reportes.
+
+----------------------------------------------------------------------------------------------------------
+
+## Propuesta de investigación
+La propuesta de investigación y su presentación puede ser encontrada en la carpeta de DocPDF o por medio del link del overleaf para la propuesta: 
+[aquí](https://www.overleaf.com/read/pdmqbqkfrfbx#e47677). 
+
+## La lista de materiales para el montaje experimental
+Los materiales a tener en cuenta fueron:
+- 3 tipos de vasos de distintos materiales:
+   - Vaso plastico
+   - Vaso metal(lata)
+   - Vaso de carton/papel
+- 2 tipos de cuerdas:
+    - Cuerda hecha de fique/paja
+    - Córdon (de calzado) 
