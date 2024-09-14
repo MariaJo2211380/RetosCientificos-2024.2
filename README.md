@@ -30,9 +30,9 @@ La propuesta de investigación y su presentación puede ser encontrada en la car
 ## La lista de materiales para el montaje experimental
 Los materiales a tener en cuenta fueron:
 - 3 tipos de vasos de distintos materiales:
-   - Vaso plastico
+   - Vaso plástico
    - Vaso metal(lata)
-   - Vaso de carton/papel
+   - Vaso de cartón/papel
 - 2 tipos de cuerdas:
     - Cuerda hecha de fique/paja
-    - Córdon (de calzado) 
+    - Cordón (de calzado) 
